@@ -1,0 +1,71 @@
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="icon" type="image/jpg" sizes="96x96" href="imagenes/piel.jpg">
+    <title>Perlitas Skincare Blog</title>
+    <style>
+        .logo {
+            width: 90px;
+            height: auto;
+        }
+        body {
+            background-color: #933e3e48;
+        }
+        h1 {
+            font-size: 26px;
+            display: inline-block;
+            vertical-align: middle;
+        }
+        h2 {
+            margin-top: 28px; 
+            font-size: 18px; 
+        }
+    </style>
+</head>
+<body>
+    <header class="d-flex align-items-center justify-content-between p-3">
+        <img src="imagenes/perla2.png" alt="logo" class="logo">
+        <h1>Perlitas Skincare Blog</h1>
+    </header>
+    <h2 class="text-center">En Perlitas Blog puedes encontrar pequeñas reseñas y consejos sobre productos para el cuidado de la piel, en esta pagina te dejamos 4 productos para construir una rutina simple para comenzar a cuidarte como la preciosa perlita que eres</h2> 
+
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <img src="imagenes/cleanser.jpg" alt="Limpiador Facial" class="img-fluid">
+                <h3>Limpiador Facial</h3>
+                <p>Este limpiador facial suave elimina suavemente la suciedad, el aceite y las impurezas, dejando la piel fresca y revitalizada. <a href="https://www.amazon.com/dp/B0060OMXUA/ref=sr_1_2" target="blank">Ver en Amazon</a></p>
+            </div>
+            <div class="col">
+                <img src="imagenes/cerave.jpg" alt="Crema Hidratante" class="img-fluid">
+                <h3>Crema Hidratante</h3>
+                <p>Esta crema hidratante intensiva proporciona una hidratación profunda durante todo el día, dejando la piel suave y flexible. <a href="https://www.amazon.com/dp/B00TTD9BRC/ref=zg_bs_g_11061301_d_sccl_1/136-9876691-8513214?psc=1" target="_blank">Ver en Amazon</a></p>
+            </div>
+            <div class="col">
+                <img src="imagenes/sunscreen.jpg" alt="Protector Solar" class="img-fluid">
+                <h3>Protector Solar</h3>
+                <p>Este protector solar de amplio espectro protege la piel contra los daños causados por los rayos UVA y UVB, previniendo el envejecimiento prematuro y las quemaduras solares. <a href="https://www.amazon.com/dp/B002MSN3QQ/ref=zg_bs_g_7792567011_d_sccl_2/136-9876691-8513214?psc=1" target="_blank">Ver en Amazon</a></p>
+            </div>
+            <div class="col">
+                <img src="imagenes/makeup.jpg" alt="Desmaquillante" class="img-fluid">
+                <h3>Desmaquillante</h3>
+                <p>Este desmaquillante en bálsamo disuelve eficazmente el maquillaje y las impurezas, dejando la piel limpia y suave sin dejar residuos grasos. <a href="https://www.amazon.com/dp/B01CJ639SM/ref=sr_1_16?crid=VJMWUTLCFZ4K&keywords=desmaquillante+balsamo&qid=1707277500&sprefix=desmauillante+bal%2Caps%2C180&sr=8-16" target="_blank">Ver en Amazon</a></p>
+            </div>
+        </div>
+    </div>
+
+    <footer class="bg-light text-center p-3">
+        <p>&copy; 2024 Perlitas Blog</p>
+    </footer>
+
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/5.1.3/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
